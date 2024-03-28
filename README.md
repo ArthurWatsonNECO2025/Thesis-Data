@@ -1,5 +1,5 @@
 # Thesis-Data
-Data I have collected for my masters thesis at New England College of Optometry.
+Data I have collected for my masters thesis at The New England College of Optometry.
 
 This repository will be used in the production of graphical representations through R.
 
