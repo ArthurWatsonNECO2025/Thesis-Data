@@ -4,3 +4,5 @@ Data I have collected for my masters thesis at The New England College of Optome
 This repository will be used in the production of graphical representations through R.
 
 The R code that I write will be citing this repository and will directly pull data from here.
+
+The individual data files can be found in their associated branches of this repository.
